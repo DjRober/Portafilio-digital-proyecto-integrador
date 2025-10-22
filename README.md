@@ -1,4 +1,8 @@
 **Aplicación de Reserva de Espacios Universitarios**
+**Integrantes:**
+-Kevin Maldonado
+-Roberto Perez
+-Heidi Tapia
 
 **Descripción General:**  
 Desarrollo de una aplicación de escritorio para la gestión y reserva de espacios académicos (aulas, laboratorios, salas de estudio, canchas deportivas) en el contexto universitario.  
